@@ -15,7 +15,8 @@ Este proyecto es una aplicación para organizar un juego de Amigo Secreto. Permi
 5. Se muesta el amigo sorteado
 
 ## Demo
-![Demo](https://drive.google.com/file/d/13PSuMP1vVOG8xm-S6bR0b-ZHU17Vx6iF/view?usp=sharing)
+<iframe src="https://drive.google.com/uc?export=download&id=13PSuMP1vVOG8xm-S6bR0b-ZHU17Vx6iF" width="640" height="480"></iframe>
+
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
