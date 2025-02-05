@@ -13,7 +13,9 @@ Este proyecto es una aplicación para organizar un juego de Amigo Secreto. Permi
 3. Se muestran los usuarios agregados
 4. Click en Sortear Amigo
 5. Se muesta el amigo sorteado
-https://drive.google.com/file/d/13PSuMP1vVOG8xm-S6bR0b-ZHU17Vx6iF/view?usp=sharing
+
+## Demo
+(https://drive.google.com/file/d/13PSuMP1vVOG8xm-S6bR0b-ZHU17Vx6iF/view?usp=sharing)
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
